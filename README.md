@@ -1,7 +1,7 @@
 ```Javascript
 var ngylduy = 
  [
-	"Name: Nguyen Luong Duy",
+	"Name: Ngô Vi Minh Hiếu",
 	"Age: 20",
 	"Gender: Male",
 	"Address: Ha Noi, Viet Nam",
