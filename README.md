@@ -1,5 +1,5 @@
 ```Javascript
-var ngylduy = 
+var anewplus = 
  [
 	"Name: Ngô Vi Minh Hiếu",
 	"Age: 20",
